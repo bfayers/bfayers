@@ -13,3 +13,6 @@ I used the Bootstrap framework in order to design the pages as well as using jQu
 
 ## Images
 
+![Main Dashboard](https://raw.githubusercontent.com/bfayers/bfayers/master/images/firefox_2020-08-13_14-47-00.png "Main Dashboard")
+![Sensor List](https://github.com/bfayers/bfayers/blob/master/images/firefox_2020-08-13_14-53-41.png?raw=true "Sensor List")
+![Sensor Creation](https://github.com/bfayers/bfayers/blob/master/images/firefox_2020-08-13_14-52-30.png?raw=true "Sensor Creation")
