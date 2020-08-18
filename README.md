@@ -15,6 +15,7 @@
     - More information can be found [here](https://github.com/bfayers/bfayers/blob/master/csproject.md)
   - [pytivo](https://github.com/bfayers/pytivo) Is a python library for controlling TiVo devices.
   - [cex-stock-checker](https://github.com/bfayers/cex-stock-checker) Is a python script I wrote to notify stock of items at CeX via Pushbullet.
+  - Created multiple Discord bots used on a combined total of over 8000 servers with over 500,000 unique users.
 - My contributions:
   - Improve method for retrieving a list of apps installed on Panasonic TVs in an opensource library [here](https://github.com/florianholzapfel/panasonic-viera/pull/40)
   - Improve functionality and usability of an Android app [here](https://github.com/patzly/grocy-android/pull/14)
