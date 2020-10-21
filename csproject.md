@@ -1,5 +1,9 @@
 ### A Level Computer Science Project - Environment Monitoring
 
+## Repository
+
+https://github.com/bfayers/CS_EnvironmentMonitoring
+
 ## Backend
 The backend of my project was created in Python using the Flask library. 
 
