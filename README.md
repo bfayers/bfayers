@@ -10,7 +10,7 @@
 
 - Some of my projects:
   - Computer Science A Level Project - Environment Monitoring
-    - For my Computer Science A Level I wrote a complete web application with a backend written in Python and a frontend using the Bootstrap web framework.
+    - For my Computer Science A Level I wrote a complete web application with a backend written in Python and a frontend using the Bootstrap web framework and jQuery to interact with my REST api.
     - Data was received via The Things Network over LoRaWAN from Arduinos with temperature and humidity sensors, this data was recorded into a database which could then be displayed in graphs in the frontend.
     - More information can be found [here](https://github.com/bfayers/bfayers/blob/master/csproject.md)
   - [pytivo](https://github.com/bfayers/pytivo) Is a python library for controlling TiVo devices.
