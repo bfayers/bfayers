@@ -2,6 +2,7 @@
 
 - 🧠I know
   - 🐍 Python
+  - Some GoLang
   - 🕸 HTML, CSS & Javascript
   - 👨‍💻 Bash & (some) Powershell
   - 🐳 Docker
