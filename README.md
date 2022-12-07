@@ -6,7 +6,7 @@
   - 🕸 HTML, CSS & Javascript
   - 👨‍💻 Bash & (some) Powershell
   - 🐳 Docker
-  - ☕ Some Java
+  - ☕ Java
 
 
 - Some of my projects:
