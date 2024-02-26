@@ -10,6 +10,9 @@
 
 
 - Some of my projects:
+  - [YardSear.ch](https://yardsear.ch) - ElasticSearch indexing the entirety of podcast 'The Yard', with an easy to use single-page frontend to search through for moments
+    - I am currently working on improving the datasource behind this - the current source, YouTube automated transcripts, suffer from censoring and frequent mistakes.
+      - I will probably make use of OpenAI's Whisper model to run the entire catalogue through an improved TTS option.
   - Computer Science A Level Project - Environment Monitoring
     - For my Computer Science A Level I wrote a complete web application with a backend written in Python and a frontend using the Bootstrap web framework and jQuery to interact with my REST api.
     - Data was received via The Things Network over LoRaWAN from Arduinos with temperature and humidity sensors, this data was recorded into a database which could then be displayed in graphs in the frontend.
