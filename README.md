@@ -14,6 +14,8 @@
     - I am making use of OpenAI's Whisper model to create accurate transcripts as a data source for ElasticSearch in this project.
   - [@F1Documents](https://twitter.com/F1Documents) - Twitter Bot
     - Uses web scraping to retrieve a list of documents (stewarding decisions, etc) on the FIA website and automatically publishes them to Twitter & Bluesky
+  - [pyEOCharging](https://github.com/bfayers/pyEOCharging) - Python Library
+    - Python library for interacting with, and controlling, the EO Mini Pro 2 EV Charger.
   - Computer Science A Level Project - Environment Monitoring
     - For my Computer Science A Level I wrote a complete web application with a backend written in Python and a frontend using the Bootstrap web framework and jQuery to interact with my REST api.
     - Data was received via The Things Network over LoRaWAN from Arduinos with temperature and humidity sensors, this data was recorded into a database which could then be displayed in graphs in the frontend.
